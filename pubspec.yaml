@@ -1,0 +1,16 @@
+name: cached_calc
+description: simple cached isolate computations I use in various projects
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  # flutter:
+  #   sdk: flutter
+  compute: ^1.0.2
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  very_good_analysis: ^5.1.0

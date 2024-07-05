@@ -1,3 +1,21 @@
+Install:
+Dart
+```yaml
+dependencies:
+  cached_calc:
+    git: 
+      url: https://github.com/bgoncharuck/cached_calc.git
+      ref: fd7877633bd60adb15f4c24432dac549ea3f5ba6
+```
+Flutter
+```yaml
+dependencies:
+  cached_calc:
+    git: 
+      url: https://github.com/bgoncharuck/cached_calc.git
+      ref: 26a4f4a417a5c85ec70b9d7fe938c1a81fc0c5f9
+```
+
 Examples:
 ```dart
 Future<FullDateZoo> calculateFullZoo(CachedCalcQuery query) async {

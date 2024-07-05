@@ -1,4 +1,5 @@
-import 'package:compute/compute.dart';
+// import 'package:compute/compute.dart';
+import 'package:flutter/foundation.dart';
 import 'model/cached_calc_query.dart';
 import 'model/cached_calc_state.dart';
 import 'model/cached_calc_status.dart';
